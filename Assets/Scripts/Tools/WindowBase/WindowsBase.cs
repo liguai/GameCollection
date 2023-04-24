@@ -128,8 +128,7 @@ public abstract class WindowsBase<T> : MonoBehaviour where T : MonoBehaviour
                     Transform chatTrans = chatCanvas.transform.Find(t.Name);
                     if (chatTrans == null)
                     {
-                        GameObject go = GameObject.Instantiate(Resources.Load(string.Format("Prefabs/WindowsChatPrefabs/{0}", t.Name))) as GameObject;
-                        go.transform.SetParent(chatCanvas.transform);
+                        GameObject go = GameObject.Instantiate(Resources.Load($"Prefabs/WindowsChatPrefabs/{t.Name}"), chatCanvas.transform, true) as GameObject;
                         go.name = t.Name;
                         SetTransformPosition(go);
                     }
@@ -143,8 +142,7 @@ public abstract class WindowsBase<T> : MonoBehaviour where T : MonoBehaviour
                     Transform trans = canvas.transform.Find(t.Name);
                     if (trans == null)
                     {
-                        GameObject go = GameObject.Instantiate(Resources.Load(string.Format("Prefabs/WindowsPrefabs/{0}", t.Name))) as GameObject;
-                        go.transform.SetParent(canvas.transform);
+                        GameObject go = GameObject.Instantiate(Resources.Load($"Prefabs/WindowsPrefabs/{t.Name}"), canvas.transform, true) as GameObject;
                         go.name = t.Name;
                         SetTransformPosition(go);
                     }

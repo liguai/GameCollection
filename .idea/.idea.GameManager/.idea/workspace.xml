@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="511ecfc5-7252-41d1-9bc6-7ca0429c08f1" name="Changes" comment="" />
+    <list default="true" id="511ecfc5-7252-41d1-9bc6-7ca0429c08f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 10.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 10.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 11.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 11.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 12.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 12.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 4.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 4.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 5.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 5.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 7.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 7.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 8.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 8.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 9.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/02MieMieMie/Item 9.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MieMieMieGame.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MieMieMieGame.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/02MieMieMie.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/02MieMieMie/MieData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/02MieMieMie/MieData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/02MieMieMie/MieMieItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/02MieMieMie/MieMieItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/02MieMieMie/MieMieMieGameWin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/02MieMieMie/MieMieMieGameWin.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameManager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/SpineSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/SpineSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tools/WindowBase/WindowsBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Tools/WindowBase/WindowsBase.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +51,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75633565436c42f0a6426b33f0132ade46a800/a4/f8fb6683/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d44b17e136d09081da1e8fd0e8c83fde60e11818b9f2442d7ed8cb733fae895e/System.Collections.Generic.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/01WaterPipe/WaterPipeGameWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/02MieMieMie/MieMieItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tools/ImageAtlasManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
@@ -21,13 +62,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OgJSnlZ5WqVnQiIM7kmbuQ0xnk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Discover.Launch.Via.Unity": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -36,6 +80,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,10 +103,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="36536">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20800">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="36536" />
+      <option name="pid" value="20800" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -78,6 +123,9 @@
       <option name="presentableId" value="Default" />
       <updated>1681976293898</updated>
       <workItem from="1681976296536" duration="35881000" />
+      <workItem from="1682132473560" duration="404000" />
+      <workItem from="1682147715443" duration="9404000" />
+      <workItem from="1682301247553" duration="21540000" />
     </task>
     <servers />
   </component>
@@ -99,6 +147,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
